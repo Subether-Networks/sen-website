@@ -5,22 +5,22 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Gina (Office Manager)
-      #image : images/client/client-1.jpg
-      #image_webp : images/client/client-1.webp
-      #date : Dec 26, 2018
+    - name : Gina
+      image : 
+      image_webp : 
+      date : Office Manager
       content : They responded quickly to my request and were very patient in dealing with me, even though I am not very good with technology.
       
     # testimonial item loop
     - name : Marco (IT Director)
-      #image : images/client/client-2.jpg
-      #image_webp : images/client/client-2.webp
+      image : 
+      image_webp : 
       #date : Dec 26, 2018
       content : I can’t speak highly enough of Subether Networks, it really has been as good as they promised it would be. The amount of money we have saved by switching is pretty incredible
       
     # testimonial item loop
     - name : Jane Willis (Owner)
-      #image : images/client/client-1.jpg
-      #image_webp : images/client/client-1.webp
+      image : 
+      image_webp : 
       #date : Dec 26, 2018
       content : I have used Subether Networks for all of my IT needs for several years and have never had a bad experience. Larry and his team always go above and beyond to make sure you are completely satisfied with their work
