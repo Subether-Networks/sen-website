@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero.webp"
   bg_image : "images/backgrounds/hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Ready to solve your tech headaches??
+  title : "Ready to solve your tech headaches?""
   content : "We help businesses grow by making their IT run at 100%. Working remotely, securely, quickly, and collaboratively…. Without any tech headaches"
   button:
     enable : true
