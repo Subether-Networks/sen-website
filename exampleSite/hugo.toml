@@ -207,7 +207,7 @@ link = "#"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+#contentDir = "content/english"
 
 [Languages.en.params]
 weight = 1
