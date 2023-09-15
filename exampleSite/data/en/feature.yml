@@ -13,12 +13,12 @@ feature:
       
       # feature item loop
     - title : IT Budget
-      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
       content : IT budgeting goes hand in hand with strategic IT planning. It is frustrating to build an IT budget without a precise understanding of what your company needs.
 
       # feature item loop
     - title : Technology Assessment
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      icon : ti-clipboard # themify icon pack : https://themify.me/themify-icons
       content : It is likely that your network has developed gradually over time with layers of hardware and software, which may now be contributing to unnecessary vulnerabilities or inefficiencies
       
       # feature item loop
