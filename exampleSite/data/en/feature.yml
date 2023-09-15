@@ -8,12 +8,12 @@ feature:
   feature_item : 
       # feature item loop
     - title : IT Strategy Services
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-direction # themify icon pack : https://themify.me/themify-icons
       content : Strategic IT planning is an integral part of what we do. We help you invest in the right technologies for today's challenges, so that tomorrow will be even more successful.
       
       # feature item loop
     - title : IT Budget
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : IT budgeting goes hand in hand with strategic IT planning. It is frustrating to build an IT budget without a precise understanding of what your company needs.
 
       # feature item loop
@@ -23,15 +23,15 @@ feature:
       
       # feature item loop
     - title : Security Risk Assessment
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
       content : The heart of any successful business is technology. But as we rely more heavily on it, so too do the risks involved with its use grow exponentially - a single data breach or ransomware attack can cause substantial financial, legal, and reputation damage.
 
       # feature item loop
     - title : Cloud Migration Service
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
       content : Cloud migration is becoming an increasingly popular option for businesses looking to increase their security, reduce costs, and take advantage of the many benefits that cloud-based solutions have to offer. At Subether Networks, our cloud migration services are designed to help your business make the transition as smoothly and efficiently as possible.
 
       # feature item loop
     - title : Governance, Risk & Compliance
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Our IT Consultants will analyze your organization's current risk profile and identify any gaps that could put your business at risk. We will then work with you to create a customized risk mitigation plan that addresses these gaps and helps you stay on track with regulatory compliance requirements.
