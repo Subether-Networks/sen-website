@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Insight
+    content : In the ever-evolving landscape of IT, our deep insights guide businesses towards innovative solutions and future-ready strategies. We harness data, experience, and industry knowledge to illuminate the path to success..
+
+  - icon : ti-shield # themify icon pack : https://themify.me/themify-icons
+    title : Integrity
+    content : Trust is the cornerstone of every IT partnership, and we uphold the highest standards of integrity in all our endeavors. Our commitment to transparency and ethical practices ensures that our clients can rely on us, every step of the way.
+
+  - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+    title : Technology
+    content : At the heart of our consultancy lies a passion for cutting-edge technology. We leverage the latest advancements to empower businesses, ensuring they stay ahead in a competitive digital world.
