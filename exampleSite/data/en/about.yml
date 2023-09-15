@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Insight
-    content : In the ever-evolving landscape of IT, our deep insights guide businesses towards innovative solutions and future-ready strategies. We harness data, experience, and industry knowledge to illuminate the path to success..
+    content : In the ever-evolving landscape of IT, our deep insights guide businesses towards innovative solutions and future-ready strategies. We harness data, experience, and industry knowledge to illuminate the path to success.
 
   - icon : ti-shield # themify icon pack : https://themify.me/themify-icons
     title : Integrity
@@ -13,4 +13,4 @@ about:
 
   - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
     title : Technology
-    content : At the heart of our consultancy lies a passion for cutting-edge technology. We leverage the latest advancements to empower businesses, ensuring they stay ahead in a competitive digital world.
+    content : At the heart of our consultancy lies a deep-rooted passion for cutting-edge technology. We leverage the latest advancements and innovative tools to empower businesses, ensuring they stay ahead in a fiercely competitive digital world.
