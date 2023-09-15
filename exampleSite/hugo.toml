@@ -89,15 +89,15 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "about"
+#url = "#about"
+#weight = 1
+#
+#[[Languages.en.menu.main]]
+#name = "services"
+#url = "#services"
+#weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "portfolio"
@@ -180,28 +180,15 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/SubetherNetworks"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/SubetherNetwrks"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
+link = "https://www.linkedin.com/company/subether-networks/"
 
 ################################ English Language ########################
 [Languages.en]
