@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
-  enable : false
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  enable : true
+  bg_image_webp : "images/backgrounds/hero.webp"
+  bg_image : "images/backgrounds/hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Ready to solve your tech headaches??
+  content : "We help businesses grow by making their IT run at 100%. Working remotely, securely, quickly, and collaboratively…. Without any tech headaches"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Learn More"
     link : "#services"
